@@ -1,0 +1,11 @@
+[Game] Loaded stats server on port 88
+[Game] Listening on port 443
+[Game] Current game mode is Experimental
+[Game] Juggernaut key is OEF7IlgA
+[Game] Loaded 10 player bots
+TypeError: "callback" argument must be a function
+    at setTimeout (timers.js:450:11)
+    at GameServer.mainLoop (C:\Users\moi\Desktop\Ogar2-master\src\GameServer.js:406:13)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
